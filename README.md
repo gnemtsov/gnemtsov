@@ -1,1 +1,3 @@
-Passionate full stack web developer with a particular love for JavaScript/Typescript and Amazon Web Services. Experience in creating, releasing and supporting large web applications.
+Hey! I'm Georgy
+
+Passionate full stack web developer with a particular love for JavaScript/Typescript and Amazon Web Services.
