@@ -1,1 +1,1 @@
-[![My github stats](https://github-readme-stats.vercel.app/api?username=gnemtsov)](https://github.com/anuraghazra/github-readme-stats)
+Passionate full stack web developer with a particular love for JavaScript/Typescript and Amazon Web Services. Experience in creating, releasing and supporting large web applications.
